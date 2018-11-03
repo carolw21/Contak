@@ -1,0 +1,11 @@
+{
+ "manifest_version": 2,
+ "name": "Contak",
+ "description": "An easy way to keep in touch with your Facebook friends",
+ "version": "1",
+ "author": "Jialin Li, Carol Wang",
+"browser_action": {
+   "default_title": "Contak",
+   "default_popup": "popup.html"
+ }
+}
